@@ -1,4 +1,4 @@
-#!/bin/sh
+m#!/bin/sh
 
 echo "\n🏴️ Destroying Kubernetes cluster...\n"
 
